@@ -18,11 +18,13 @@ h1,h2,h3,h4,h5,h6 {
 
 h1 {
 	font-size: 2.25em; /* 36px */
+	font-weight: bold;
 }
 
 h2 {
 	font-size: 1.75em; /* 28px */
 	margin-top: 1.5em;
+	font-weight: bold;
 }
 
 h3 {
@@ -86,7 +88,7 @@ Layout styles
 
 .header {
 	color: #fff;
-	background: #68e;
+	background: #343a40;
 	padding: 1em 1.25em;
 	font-family: Rajdhani;
 }
@@ -118,7 +120,7 @@ Layout styles
     font-size: 0.8em;
 	padding: 0.5em 1.25em;
 	text-align: center;
-	background-color: #68e;
+	background-color: #343a40;
 }
 
 .footer a {
@@ -192,7 +194,7 @@ p .in {
 }
 
 /* -----------------------
-Calendar styles
+Google calendar styles
 ------------------------*/
 
 #loading {
@@ -226,4 +228,4 @@ Wide styles
     .tbds {
         display: none;
     }
-} 
+}
