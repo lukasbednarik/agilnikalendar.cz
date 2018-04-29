@@ -55,6 +55,8 @@ table {
 	border-spacing: 0;
 	border-collapse: collapse;
 	border-top: 1px solid #ddd;
+	margin-bottom: 20px;
+	margin-top: 10px;
 }
 
 th, td {
@@ -81,8 +83,13 @@ a:hover {
 Layout styles
 ------------------------*/
 
-.container {
+#container {
 	max-width: 50em;
+	margin: 0 auto;
+}
+
+#container-calendar {
+	max-width: 65em;
 	margin: 0 auto;
 }
 
@@ -135,13 +142,6 @@ Single styles
 .img-responsive {
     max-width: 100%;
     border: 2px solid #343a40;
-}
-
-.table {
-	width: 100%;
-	max-width: 100%;
-	margin-bottom: 20px;
-	margin-top: 10px;
 }
 
 p input {
