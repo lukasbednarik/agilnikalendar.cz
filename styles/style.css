@@ -70,7 +70,7 @@ td img {
 	margin-right: 10px;
 }
 
-a {
+a, a.twitter-timeline {
     color: #68e; /*#FF3F00;*/
     text-decoration: none;
 }
@@ -83,7 +83,7 @@ a:hover {
 Layout styles
 ------------------------*/
 
-#container {
+.container, #container-header, #container-footer {
 	max-width: 50em;
 	margin: 0 auto;
 }
@@ -121,6 +121,14 @@ Layout styles
     width: 100%;
     height: 600px;
     border-width: 0;
+}
+
+.main {
+	float: left;
+}
+
+.twitter {
+	margin-left: 20px;
 }
 
 .footer {
@@ -168,6 +176,7 @@ Wide styles
 @media (min-width: 42em) {
 	.header { padding: 1.5em 3em; }
 	.content { padding: 2em 3em; }
+	.container { display: flex; }
 }
 
 @media (max-width: 550px) {
