@@ -1,0 +1,12 @@
+markdown:         kramdown
+highlighter:      rouge
+permalink:        /:title/
+include:          ["_pages"]
+url:              'https://agilnikalendar.cz'
+baseurl:          '/'
+
+title:            'Agilní kalendář'
+author:
+  name:           'Lukáš Bednařík'
+  email:          'lukas@lukasbednarik.cz'
+  

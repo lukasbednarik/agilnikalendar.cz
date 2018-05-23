@@ -1,57 +1,9 @@
-<!DOCTYPE html>
-<html lang="cs">
+---
+layout: default
+title: Domů
+---
 
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Agilní kalendář</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" lang="cs" content="Kalendář agilních konferencí, meetupů a komunitních srazů v ČR a okolí.">
-	<meta name="author" content="Lukáš Bednařík">
 
-	<!-- Icons -->
-	<link rel="apple-touch-icon" href="http://agilnikalendar.cz/favicon.ico">
-	<link rel="shortcut icon" href="http://agilnikalendar.cz/favicon.ico">
-
-	<!-- Styles -->
-	<link rel="stylesheet" type="text/css" href="styles/style.css">
-
-	<!-- Twitter Card data -->
-	<meta name="twitter:card" value="Kalendář agilních konferencí, meetupů a komunitních srazů v ČR a okolí.">
-
-	<!-- Open Graph data -->
-	<meta property="og:title" content="Agilní kalendář" />
-	<meta property="og:description" content="Kalendář agilních konferencí, meetupů a komunitních srazů v ČR a okolí." />
-	<meta property="og:type" content="article" />
-	<meta property="og:url" content="http://agilnikalendar.cz" />
-	<meta property="og:image" content="http://agilnikalendar.cz/img/ace-2017.jpg" />
-
-	<!-- Google analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-104534530-2"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
-		gtag('js', new Date());
-		gtag('config', 'UA-104534530-2');
-	</script>
-
-	<!-- Google fonts -->
-	<link href="http://fonts.googleapis.com/css?family=Rajdhani" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-	<div class="header">
-		<div id="container-header">
-			<h1>Agilní kalendář</h1>
-			<p>Nejúplnější kalendář agilních konferencí a komunitních akcí v ČR a na Slovensku!</p>
-		</div>
-	</div>
-	<div class="content">
-		<div id="container-calendar">
-				<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23ffffff&amp;src=lukasbednarik.cz_oaiq2q1foapgnlofqj3k0cb9ks%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=Europe%2FPrague"></iframe>
-		</div>
-		<div class="container">
-			<div class="main">
 				<h2>Seznam agilních akcí</h2>
 				<p>Seznam agilních konferencí, unconferencí, komunitních akcí, scrum beer, agile cafe aj.</p>
 				<table>
@@ -192,19 +144,3 @@
 				<p><img class="img-responsive" src="img/agile-prague-2017.jpg" alt="Agile Prague 2017"><a href="http://agileprague.com">Agile Prague</a> 2017</p>
 				<p><img class="img-responsive" src="img/agilia-prague-2017.jpg" alt="Agilia Prague 2017"><a href="http://agiliaprague.com/">Agilia Prague</a> 2017</p>
 				<p><img class="img-responsive" src="img/scrumbeer-2017.jpg" alt="Scrumbeer 2017"><a href="https://scrumbeer.cz/">Prague Scrum Beer</a> 2017</p>
-			</div>
-			<div class="main twitter">
-				<h2><a href="https://twitter.com/lukasbednarikcz/lists/czechagile">CzechAgile</a></h2>
-				<a class="twitter-timeline" data-lang="cs" height="1200" data-chrome="noscrollbar noheader nofooter" width="250" data-dnt="true" data-link-color="#6688ee" href="https://twitter.com/lukasbednarikcz/lists/czechagile?ref_src=twsrc%5Etfw">A Twitter List by ___lbe</a>
-				<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-			</div>
-		</div>
-	</div>
-	<div class="footer">
-		<div id="container-footer">
-			<a href="http://lukasbednarik.cz/kontakt" target="_blank">Lukáš Bednařík &copy; 2018</a>
-		</div>
-	</div>
-</body>
-
-</html>
