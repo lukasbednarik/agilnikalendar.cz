@@ -18,103 +18,103 @@ Seznam agilních konferencí, unconferencí, komunitních akcí, scrum beer, agi
 	</thead>
 	<tbody>
 		<tr>
-			<td><img alt="Konference" title="Konference" src="img/conference.png"></td>
+			<td><img alt="Konference" title="Konference" src="assets/conference.png"></td>
 			<td><a href="http://agiliaprague.com/">Agilia Prague</a></td>
 			<td>Praha</td>
 			<td class="tbds">Agilní přístupy v bankovnictví a finančním sektoru</td>
 		</tr>
 		<tr>
-			<td><img alt="Konference" title="Konference" src="img/conference.png"></td>
+			<td><img alt="Konference" title="Konference" src="assets/conference.png"></td>
 			<td><a href="http://agileprague.com">Agile Prague</a></td>
 			<td>Praha</td>
 			<td class="tbds">Od roku 2011 je Agile Prague Conference nejvetší událostí Agilního světa v Čechách. Ve dvou dnech přináší top spětové speakery, openspace, a coaches clinic. Konference je v Angličtině.</td>
 		</tr>
 		<tr>
-			<td><img alt="Workshop" title="Workshop" src="img/workshop.png"></td>
+			<td><img alt="Workshop" title="Workshop" src="assets/workshop.png"></td>
 			<td><a href="http://www.agiliascrumday.com/">Agilia Scrum Master Day</a></td>
 			<td>Praha</td>
 			<td class="tbds">Návštěvníci si v malých skupinkách vyzkouší drobné hry</td>
 		</tr>
 		<tr>
-			<td><img alt="Komunita" title="Komunita" src="img/community.png"></td>
+			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
 			<td><a href="https://scrumbeer.cz/">Prague Scrum Beer</a></td>
 			<td>Praha</td>
 			<td class="tbds"></td>
 		</tr>
 		<tr>
-			<td><img alt="Unconference" title="Unconference" src="img/community.png"></td>
+			<td><img alt="Unconference" title="Unconference" src="assets/community.png"></td>
 			<td><a href="https://agilecoachcamp.cz/">Agile Coach Camp</a></td>
 			<td>Tvoršovice (Praha)</td>
 			<td class="tbds">Dvoudenní open space unconference</td>
 		</tr>
 		<tr>
-			<td><img alt="Unconference" title="Unconference" src="img/community.png"></td>
+			<td><img alt="Unconference" title="Unconference" src="assets/community.png"></td>
 			<td><a href="http://www.agileopenspace.cz/">Agile Open Space</a></td>
 			<td>Praha / Brno</td>
 			<td class="tbds">Jednodenní unconference, kde si témata volíte sami</td>
 		</tr>
 		<tr>
-			<td><img alt="Komunita" title="Komunita" src="img/community.png"></td>
+			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
 			<td><a href="https://agilniasociace.cz/category/otevrena-agilni-setkani/">Agilní Open Café</a></td>
 			<td>Praha / Brno</td>
 			<td class="tbds">Agilní Open café je setkání příznivců Agilních metod. Přijďte se podělit o své zkušenosti, popovídat si, dozvědět se co je v Agilním světě nového.</td>
 		</tr>
 		<tr>
-			<td><img alt="Unconference" title="Unconference" src="img/conference.png"></td>
+			<td><img alt="Unconference" title="Unconference" src="assets/conference.png"></td>
 			<td><a href="http://www.prazskybarcamp.cz/">Pražský barcamp</a></td>
 			<td>Praha</td>
 			<td class="tbds">Nejde přímo o agilní akci, ale v posledních letech se IT a agilní vývoj řeší často.</td>
 		</tr>
 		<tr>
-			<td><img alt="Komunita" title="Komunita" src="img/community.png"></td>
+			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
 			<td>Kentico Agile Meetup</td>
 			<td>Brno</td>
 			<td class="tbds"></td>
 		</tr>
 		<tr>
-			<td><img alt="Komunita" title="Komunita" src="img/community.png"></td>
+			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
 			<td><a href="http://jaktodelamja.cz/">Jak to dělám já</a></td>
 			<td>Brno</td>
 			<td class="tbds">Vybraný Scrum Master prezentuje svůj způsob práce</td>
 		</tr>
 		<tr>
-			<td><img alt="Komunita" title="Komunita" src="img/community.png"></td>
+			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
 			<td>Scrum Beer Brno</td>
 			<td>Brno</td>
 			<td class="tbds">Setkání brněnských Scrum Masterů</td>
 		</tr>
 		<tr>
-			<td><img alt="Komunita" title="Komunita" src="img/community.png"></td>
+			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
 			<td><a href="https://agileforum.cz">Agile Forum</a></td>
 			<td>Brno</td>
 			<td class="tbds">Místo, kde se lidé scházejí a diskutují</td>
 		</tr>
 		<tr>
-			<td><img alt="Unconference" title="Unconference" src="img/conference.png"></td>
+			<td><img alt="Unconference" title="Unconference" src="assets/conference.png"></td>
 			<td><a href="http://www.barcampbrno.cz">Barcamp Brno</a></td>
 			<td>Brno</td>
 			<td class="tbds">Nejde přímo o agilní akci, ale v posledních letech se IT a agilní vývoj řeší často.</td>
 		</tr>
 		<tr>
-			<td><img alt="Konference" title="Konference" src="img/conference.png"></td>
+			<td><img alt="Konference" title="Konference" src="assets/conference.png"></td>
 			<td><a href="http://agiliaconference.com/">Agilia Conference</a></td>
 			<td>Olomouc</td>
 			<td class="tbds"></td>
 		</tr>
 		<tr>
-			<td><img alt="Konference" title="Konference" src="img/conference.png"></td>
+			<td><img alt="Konference" title="Konference" src="assets/conference.png"></td>
 			<td><a href="https://agilemanagementcongress.com/">Agile Management Congress</a></td>
 			<td>Olomouc</td>
 			<td class="tbds">&bdquo;Manažeři manažerům&ldquo;</td>
 		</tr>
 		<tr>
-			<td><img alt="Konference" title="Konference" src="img/conference.png"></td>
+			<td><img alt="Konference" title="Konference" src="assets/conference.png"></td>
 			<td><a href="https://www.scrumimpulz.sk/">ScrumImpulz</a></td>
 			<td>Bratislava</td>
 			<td class="tbds">Management 3.0, high performing teams, worst fails…</td>
 		</tr>
 		<tr>
-			<td><img alt="Komunita" title="Komunita" src="img/community.png"></td>
+			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
 			<td><a href="http://agile.sk/">Agile@Slovakia</a></td>
 			<td>Slovensko</td>
 			<td class="tbds">Slovenská komunita lidí aplikujících agilní principy</td>
@@ -157,8 +157,8 @@ Cílem kalendáře je zlepšit agilní osvětu tím, že lidem usnadní vyhledá
 
 ## Fotografie
 
-<p><img class="img-responsive" src="img/ace-2017.jpg" alt="ACE! 2017"><a href="http://aceconf.com">ACE!</a> 2017</p>
-<p><img class="img-responsive" src="img/agile-management-congress-2017.jpg" alt="Agile Management Congress 2017"><a href="https://agilemanagementcongress.com/">Agile Management Congress</a> 2017</p>
-<p><img class="img-responsive" src="img/agile-prague-2017.jpg" alt="Agile Prague 2017"><a href="http://agileprague.com">Agile Prague</a> 2017</p>
-<p><img class="img-responsive" src="img/agilia-prague-2017.jpg" alt="Agilia Prague 2017"><a href="http://agiliaprague.com/">Agilia Prague</a> 2017</p>
-<p><img class="img-responsive" src="img/scrumbeer-2017.jpg" alt="Scrumbeer 2017"><a href="https://scrumbeer.cz/">Prague Scrum Beer</a> 2017</p>
+<p><img class="img-responsive" src="assets/ace-2017.jpg" alt="ACE! 2017"><a href="http://aceconf.com">ACE!</a> 2017</p>
+<p><img class="img-responsive" src="assets/agile-management-congress-2017.jpg" alt="Agile Management Congress 2017"><a href="https://agilemanagementcongress.com/">Agile Management Congress</a> 2017</p>
+<p><img class="img-responsive" src="assets/agile-prague-2017.jpg" alt="Agile Prague 2017"><a href="http://agileprague.com">Agile Prague</a> 2017</p>
+<p><img class="img-responsive" src="assets/agilia-prague-2017.jpg" alt="Agilia Prague 2017"><a href="http://agiliaprague.com/">Agilia Prague</a> 2017</p>
+<p><img class="img-responsive" src="assets/scrumbeer-2017.jpg" alt="Scrumbeer 2017"><a href="https://scrumbeer.cz/">Prague Scrum Beer</a> 2017</p>
