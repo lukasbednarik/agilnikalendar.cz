@@ -111,7 +111,7 @@ Seznam agilních konferencí, unconferencí, komunitních akcí, scrum beer, agi
 			<td><img alt="Konference" title="Konference" src="assets/conference.png"></td>
 			<td><a href="https://www.konferencepm.cz">Konference Projektový Management</a></td>
 			<td>Zlín</td>
-			<td class="tbds">Konference Projektový Management vznikla již v roce 2005 a dnes se jí zpravidla účastní přes 200 projektových manažerů z ČR i ze zahraniční napříč všemi obory. Kromě výborných přednášek a praktických workshopů je ojedinělým rozsáhlý společenský večer, který poskytuje mnoho příležitostí k networkingu.</td>
+			<td class="tbds">Konference Projektový Management vznikla již v roce 2005 a dnes se jí zpravidla účastní přes 200 projektových manažerů z ČR i ze zahraniční napříč všemi obory. Kromě výborných přednášek a praktických workshopů je ojedinělá rozsáhlým společenským večerem, který poskytuje mnoho příležitostí k networkingu.</td>
 		</tr>
 		<tr>
 			<td><img alt="Konference" title="Konference" src="assets/conference.png"></td>
