@@ -21,7 +21,7 @@ Seznam agilních konferencí, unconferencí, komunitních akcí, scrum beer, agi
 			<td><img alt="Konference" title="Konference" src="assets/conference.png"></td>
 			<td><a href="http://agiliaprague.com/">Agilia Prague</a></td>
 			<td>Praha</td>
-			<td class="tbds">Agilní přístupy v bankovnictví a finančním sektoru</td>
+			<td class="tbds">Agilní přístupy v bankovnictví a finančním sektoru.</td>
 		</tr>
 		<tr>
 			<td><img alt="Konference" title="Konference" src="assets/conference.png"></td>
@@ -33,7 +33,7 @@ Seznam agilních konferencí, unconferencí, komunitních akcí, scrum beer, agi
 			<td><img alt="Workshop" title="Workshop" src="assets/workshop.png"></td>
 			<td><a href="http://www.agiliascrumday.com/">Agilia Scrum Master Day</a></td>
 			<td>Praha</td>
-			<td class="tbds">Návštěvníci si v malých skupinkách vyzkouší drobné hry</td>
+			<td class="tbds">Návštěvníci si v malých skupinkách vyzkouší drobné hry.</td>
 		</tr>
 		<tr>
 			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
@@ -45,13 +45,13 @@ Seznam agilních konferencí, unconferencí, komunitních akcí, scrum beer, agi
 			<td><img alt="Unconference" title="Unconference" src="assets/community.png"></td>
 			<td><a href="https://agilecoachcamp.cz/">Agile Coach Camp</a></td>
 			<td>Tvoršovice (Praha)</td>
-			<td class="tbds">Dvoudenní open space unconference</td>
+			<td class="tbds">Dvoudenní open space unconference.</td>
 		</tr>
 		<tr>
 			<td><img alt="Unconference" title="Unconference" src="assets/community.png"></td>
 			<td><a href="http://www.agileopenspace.cz/">Agile Open Space</a></td>
 			<td>Praha / Brno</td>
-			<td class="tbds">Jednodenní unconference, kde si témata volíte sami</td>
+			<td class="tbds">Jednodenní unconference, kde si témata volíte sami.</td>
 		</tr>
 		<tr>
 			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
@@ -75,19 +75,19 @@ Seznam agilních konferencí, unconferencí, komunitních akcí, scrum beer, agi
 			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
 			<td><a href="http://jaktodelamja.cz/">Jak to dělám já</a></td>
 			<td>Brno</td>
-			<td class="tbds">Vybraný Scrum Master prezentuje svůj způsob práce</td>
+			<td class="tbds">Setkání, v rámci kterého vybraný Scrum Master/Agile Coach z konkrétní firmy formou prezentace popisuje, jak svou práci dělá právě on, a to co nejvíce detailním způsobem. Cílem je, aby všichni zúčastnění mohli pro svou práci načerpat praktickou inspiraci a vzájemně se od sebe učit. Doba prezentace je obvykle 2h s následným prostorem pro dotazy a diskuzi.</td>
 		</tr>
 		<tr>
 			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
 			<td>Scrum Beer Brno</td>
 			<td>Brno</td>
-			<td class="tbds">Setkání brněnských Scrum Masterů</td>
+			<td class="tbds">Setkání brněnských Scrum Masterů.</td>
 		</tr>
 		<tr>
 			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
 			<td><a href="https://agileforum.cz">Agile Forum</a></td>
 			<td>Brno</td>
-			<td class="tbds">Místo, kde se lidé scházejí a diskutují</td>
+			<td class="tbds">Místo, kde se lidé scházejí a diskutují.</td>
 		</tr>
 		<tr>
 			<td><img alt="Unconference" title="Unconference" src="assets/conference.png"></td>
@@ -105,7 +105,7 @@ Seznam agilních konferencí, unconferencí, komunitních akcí, scrum beer, agi
 			<td><img alt="Konference" title="Konference" src="assets/conference.png"></td>
 			<td><a href="https://agilemanagementcongress.com/">Agile Management Congress</a></td>
 			<td>Olomouc</td>
-			<td class="tbds">&bdquo;Manažeři manažerům&ldquo;</td>
+			<td class="tbds">&bdquo;Manažeři manažerům.&ldquo;</td>
 		</tr>
 		<tr>
 			<td><img alt="Konference" title="Konference" src="assets/conference.png"></td>
@@ -123,7 +123,7 @@ Seznam agilních konferencí, unconferencí, komunitních akcí, scrum beer, agi
 			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
 			<td><a href="http://agile.sk/">Agile@Slovakia</a></td>
 			<td>Slovensko</td>
-			<td class="tbds">Slovenská komunita lidí aplikujících agilní principy</td>
+			<td class="tbds">Slovenská komunita lidí aplikujících agilní principy.</td>
 		</tr>
 	</tbody>
 </table>
