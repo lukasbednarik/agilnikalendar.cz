@@ -163,7 +163,7 @@ Cílem kalendáře je zlepšit agilní osvětu tím, že lidem usnadní vyhledá
 
 ## Fotografie
 
-<p><img class="img-responsive" src="assets/ace-2017.jpg" alt="ACE! 2017"><a href="http://aceconf.com">ACE!</a> 2017</p>
+<p><img class="img-responsive" src="assets/scrumimpulz-2018.jpg" alt="ScrumImpulz"><a href="https://www.scrumimpulz.sk/">ScrumImpulz</a> 2018</p>
 <p><img class="img-responsive" src="assets/agile-management-congress-2017.jpg" alt="Agile Management Congress 2017"><a href="https://agilemanagementcongress.com/">Agile Management Congress</a> 2017</p>
 <p><img class="img-responsive" src="assets/agile-prague-2017.jpg" alt="Agile Prague 2017"><a href="http://agileprague.com">Agile Prague</a> 2017</p>
 <p><img class="img-responsive" src="assets/agilia-prague-2017.jpg" alt="Agilia Prague 2017"><a href="http://agiliaprague.com/">Agilia Prague</a> 2017</p>
