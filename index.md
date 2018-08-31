@@ -49,21 +49,27 @@ Seznam agilních konferencí, unconferencí, komunitních akcí, scrum beer, agi
 		</tr>
 		<tr>
 			<td><img alt="Unconference" title="Unconference" src="assets/community.png"></td>
-			<td><a href="http://www.agileopenspace.cz/">Agile Open Space</a></td>
-			<td>Praha / Brno</td>
-			<td class="tbds">Jednodenní unconference, kde si témata volíte sami.</td>
-		</tr>
-		<tr>
-			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
-			<td><a href="https://agilniasociace.cz/category/otevrena-agilni-setkani/">Agilní Open Café</a></td>
-			<td>Praha / Brno</td>
-			<td class="tbds">Agilní Open café je setkání příznivců Agilních metod. Přijďte se podělit o své zkušenosti, popovídat si, dozvědět se co je v Agilním světě nového.</td>
+			<td><a href="https://www.pmopenspace.cz/">Project Management Open Space</a></td>
+			<td>Praha</td>
+			<td class="tbds">Jediná unconference pro komunitu projektového řízení, kde si obsah účastníci určují sami. Neřeší se tu teoretické a akademické problémy, ale reálné problémy z běžné projektové praxe.</td>
 		</tr>
 		<tr>
 			<td><img alt="Unconference" title="Unconference" src="assets/conference.png"></td>
 			<td><a href="http://www.prazskybarcamp.cz/">Pražský barcamp</a></td>
 			<td>Praha</td>
 			<td class="tbds">Nejde přímo o agilní akci, ale v posledních letech se IT a agilní vývoj řeší často.</td>
+		</tr>
+		<tr>
+			<td><img alt="Unconference" title="Unconference" src="assets/community.png"></td>
+			<td><a href="http://www.agileopenspace.cz/">Agile Open Space</a></td>
+			<td>Praha / Brno</td>
+			<td class="tbds">Česko-Slovenská unconference, která sdružuje členy agilní komunity. Velmi silné propojení teorie a praxe skrze lidi, kteří se denně agile věnují.</td>
+		</tr>
+		<tr>
+			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
+			<td><a href="https://agilniasociace.cz/category/otevrena-agilni-setkani/">Agilní Open Café</a></td>
+			<td>Praha / Brno</td>
+			<td class="tbds">Agilní Open café je setkání příznivců Agilních metod. Přijďte se podělit o své zkušenosti, popovídat si, dozvědět se co je v Agilním světě nového.</td>
 		</tr>
 		<tr>
 			<td><img alt="Komunita" title="Komunita" src="assets/community.png"></td>
@@ -163,6 +169,7 @@ Cílem kalendáře je zlepšit agilní osvětu tím, že lidem usnadní vyhledá
 
 ## Fotografie
 
+<p><img class="img-responsive" src="assets/agile-open-space-2018.jpg" alt="Agile Open Space"><a href="http://www.agileopenspace.cz/">Agile Open Space</a> 2018</p>
 <p><img class="img-responsive" src="assets/scrumimpulz-2018.jpg" alt="ScrumImpulz"><a href="https://www.scrumimpulz.sk/">ScrumImpulz</a> 2018</p>
 <p><img class="img-responsive" src="assets/agile-management-congress-2017.jpg" alt="Agile Management Congress 2017"><a href="https://agilemanagementcongress.com/">Agile Management Congress</a> 2017</p>
 <p><img class="img-responsive" src="assets/agile-prague-2017.jpg" alt="Agile Prague 2017"><a href="http://agileprague.com">Agile Prague</a> 2017</p>
