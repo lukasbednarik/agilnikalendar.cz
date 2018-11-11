@@ -149,7 +149,7 @@ Naším cílem není tyto kalendáře duplikovat, ale obsáhnout především dr
 
 Napište mi na [lukas@lukasbednarik.cz](mailto:lukas@lukasbednarik.cz).
 Pokud máte zájem do kalendáře přispívat pravidelněji, rád přidám váš Google účet do seznamu lidí s oprávněním provádět změny.
-Chcete-li změnit přímo tuto stránku, pošlete mi [pull request](https://github.com/sand-dollar/agilnikalendar.cz) nebo opět mailujte.
+Chcete-li změnit přímo tuto stránku, mailujte.
 
 ### Jak naiportuji kalendář do svého Google Calendar?
 
