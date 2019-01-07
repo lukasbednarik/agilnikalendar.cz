@@ -3,6 +3,7 @@
 Repozitář pro [agilnikalendar.cz](http://agilnikalendar.cz).
 Chcete-li na stránkách cokoli změnit, pošlete mi pull request nebo mi napište.
 
-## Notes
+## TODO
 
-- Twitter configurator: https://publish.twitter.com/?query=https%3A%2F%2Ftwitter.com%2Flukasbednarikcz%2Flists%2Fczechagile&widget=Timeline
+- Měřit "přidat kalendář do google" link click. https://support.google.com/analytics/answer/1136920?hl=cs
+- ? Add twitter. Twitter configurator: https://publish.twitter.com/?query=https%3A%2F%2Ftwitter.com%2Flukasbednarikcz%2Flists%2Fczechagile&widget=Timeline
