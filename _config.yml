@@ -1,12 +1,31 @@
-markdown:         kramdown
-highlighter:      rouge
-permalink:        /:title/
-include:          ["_pages"]
-url:              'https://agilnikalendar.cz'
-baseurl:          '/'
+---
 
-title:            'Agilní kalendář'
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+markdown: kramdown
+
+### content configuration ###
+url:         'https://agilnikalendar.cz'
+title:       'Agilní kalendář'
 author:
-  name:           'Lukáš Bednařík'
-  email:          'lukas@lukasbednarik.cz'
-  
+  name:      'Lukáš Bednařík'
+  email:     'lukas@lukasbednarik.cz'
+keywords:    'SinglePaged, jekyll, template, github, blog, single page'
+description: 'Kalendář agilních konferencí, meetupů a komunitních srazů v ČR a okolí.'
+favicon:     'images/favicon.ico'
+touch_icon:  'images/favicon.ico'
+google_analytics_key: UA-104534530-2
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+
+kramdown:
+  auto_ids:  false
