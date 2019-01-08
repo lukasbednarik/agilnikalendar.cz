@@ -5,5 +5,5 @@ Chcete-li na stránkách cokoli změnit, pošlete mi pull request nebo mi napiš
 
 ## TODO
 
-- Měřit "přidat kalendář do google" link click. https://support.google.com/analytics/answer/1136920?hl=cs
+- Měřit "přidat kalendář do google" link click.
 - ? Add twitter. Twitter configurator: https://publish.twitter.com/?query=https%3A%2F%2Ftwitter.com%2Flukasbednarikcz%2Flists%2Fczechagile&widget=Timeline
