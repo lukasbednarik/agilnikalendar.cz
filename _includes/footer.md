@@ -1,2 +1,2 @@
 
-[Lukáš Bednařík](https://lukasbednarik.cz) &copy; 2018
+[Lukáš Bednařík](https://lukasbednarik.cz) &copy; {{ site.time | date: '%Y' }}
